@@ -7,3 +7,5 @@ changing the MASTER branch at 12:46 PM
 ---------------------------------------
 work in progress on pydantic models in dev 13:36 PM
 work completed on Sqlalchemy class in dev 13:58 PM 
+
+new work completed on pydantic models class 14:40 PM

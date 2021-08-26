@@ -11,3 +11,5 @@ work completed on Sqlalchemy class in dev 13:58 PM
 new work completed on pydantic models class 14:40 PM
 work on the pytest module in main @master branch 14:45 PM
 
+start work in feature branch: write GET endpoint.
+
